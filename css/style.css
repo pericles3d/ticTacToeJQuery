@@ -1,0 +1,78 @@
+
+*{
+  background: rgb(161, 161, 161);
+}
+.container{
+  width: 310px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.square{
+  border: 1px solid;
+  width: 100px;
+  height: 100px;
+  display: block;
+  float: left;
+  text-align: center;
+  font-size: 85px;
+}
+
+h1{
+  font-family: 'Bangers', cursive;
+  letter-spacing: 5px;
+  text-align: center;
+  font-size: 72px;
+  color: rgb(213, 213, 213);
+  text-decoration: underline;
+  text-shadow: 2px 2px black;
+  margin: -16px 0;
+  padding-top: 22px;
+}
+
+.xScoreTitle{
+  text-align: center;
+  font-family: 'Bangers', cursive;
+  font-size: 32px;
+  color: rgb(137, 226, 247);
+  -webkit-text-stroke: 1px black;
+  margin: 29px 0;
+  padding-top: 10px;
+}
+
+.oScoreTitle{
+  text-align: center;
+  font-family: 'Bangers', cursive;
+  font-size: 32px;
+  color: rgb(237, 230, 100);
+  -webkit-text-stroke: 1px black;
+}
+
+h2{
+  text-align: center;
+  padding-top: 334px;
+}
+
+.new{
+  font-size: 16px;
+  height:26px;
+  float: right;
+  position: relative;
+  top: 36px;
+  margin-right: 166px;
+  margin-top: 234px;
+  border-radius: 5px;
+  background: rgb(157, 255, 210);
+}
+
+.reset{
+  font-size: 16px;
+  height:26px;
+  float: right;
+  position: relative;
+  top: 109px;
+  margin-right: -100px;
+  margin-top: 234px;
+  border-radius: 5px;
+  background: rgb(213, 213, 213);;
+}
